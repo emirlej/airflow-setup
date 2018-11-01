@@ -3,16 +3,16 @@
 Airflow documentation is found [here](https://airflow.apache.org/).
 
 ## What is Airflow
-From [Youtube viodeo][1]:
+From [YouTube video][1]:
 >Airflow is a platform to programmatically author, schedule, and monitor workflows 
 , aka directed acyclic graphs (DAGs).
 
 ## Relevant blog posts
 1. [Getting started with Apache Airflow][2]
-2. [Understanding APache Airflow's key concepts][3]
+2. [Understanding Apache Airflow's key concepts][3]
 3. [Airflow tips, tricks and pitfalls][4]
 
-## Youtube videos
+## YouTube videos
 1. [Building (Better) Data Pipelines with Apache Airflow][1]
 
 
