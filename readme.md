@@ -7,6 +7,16 @@ From [YouTube video][1]:
 >Airflow is a platform to programmatically author, schedule, and monitor workflows 
 , aka directed acyclic graphs (DAGs).
 
+## Use cases
+- ETL pipelines
+- ML pipelines
+    - Scoring/Ranking
+    - Recommender systems
+    - etc.
+- General job scheduling
+    - DB backups
+    - Scheduled code/config deployment
+
 ## Relevant blog posts
 1. [Getting started with Apache Airflow][2]
 2. [Understanding Apache Airflow's key concepts][3]
