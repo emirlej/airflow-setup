@@ -1,0 +1,7 @@
+name: airflow-environment-2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6.6
+  - airflow=1.10.0
+  
